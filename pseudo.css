@@ -1,0 +1,19 @@
+*{
+    background-color: burlywood;
+    text-align: center;
+    font-size: larger;
+}
+h1:hover{
+    color:rgb(199, 18, 124)
+}
+.ac:active{
+    color: red;
+}
+ .selec>p::selection{
+    color: aqua;
+    background-color: black;
+
+ }
+ .mark>p::marker{
+    color: yellow;
+ }
